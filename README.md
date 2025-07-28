@@ -34,10 +34,3 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
 
----
-
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misbahlmnr&layout=compact&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=misbahlmnr&show_icons=true&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=misbahlmnr&theme=default)
